@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...
+  - Reading and learning from Computer Science textbooks
+  - Discord/Telegram bots
+  - Web applications, integrating bots and other APIs
+  - Minecraft mods/plugins
+
+- 🧠 I have experience in ...
+  - Javascript/Typescript, Node.js, React, Express
+  - Java SE
+  - NoSQL databases (MongoDB)
+
+- 🌱 I’m currently learning ...
+  - Deno
+  - Python/C++
+  - PostgreSQL
