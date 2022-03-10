@@ -30,3 +30,4 @@ Here are some ideas to get you started:
   - Deno
   - Python/C++
   - PostgreSQL
+  - Docker, Kubernetes
