@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 - 🧠 I have experience in ...
   - Javascript/Typescript, Node.js, React, Express
   - Java SE
-  - NoSQL databases (MongoDB)
+  - NoSQL databases (MongoDB) and SQL databases (PostgreSQL, SQLite3)
 
 - 🌱 I’m currently learning ...
-  - Deno
   - Python/C++
-  - PostgreSQL
   - Docker, Kubernetes
