@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
   - Reading and learning from Computer Science textbooks
-  - Discord/Telegram bots
-  - Web applications, integrating bots and other APIs
-  - Minecraft mods/plugins
+  - Practising Java/TS on LC/HR
+  - Looking for projects...
 
 - 🧠 I have experience in ...
   - Javascript/Typescript, Node.js, React, Express
   - Java SE
   - NoSQL databases (MongoDB) and SQL databases (PostgreSQL, SQLite3)
+  - Docker
 
 - 🌱 I’m currently learning ...
-  - Python/C++
-  - Docker, Kubernetes
+  - Python/C++/Rust
+  - Kubernetes
