@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🧠 I have experience in ...
   - Javascript/Typescript, Node.js, React, Express
-  - Java SE
+  - Java SE (still practising)
   - NoSQL databases (MongoDB) and SQL databases (PostgreSQL, SQLite3)
   - Docker
 
