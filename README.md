@@ -8,3 +8,5 @@
 🧠 I have experience in Javascript/Typescript, Node.js, Java, Python, React, NoSQL (MongoDB), SQL (PostgreSQL/SQLite3), Docker.
 
 🌱 I’m currently learning /C++/Rust.
+
+*Most of my work stuff are on private repos. Sorry*
