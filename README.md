@@ -1,6 +1,9 @@
 # 💫 About Me
-I like to make cool things. That's all there is to it.<br>The more I learn the more I realise I don't know. Work more, talk less...<br>
-Working on mostly Go stuff right now, want to go a little deeper into it before I jump back into C/C++/C#/Rust.
+I like to make cool and pretty things. That's all there is to it.
+<br>
+The more I learn the more I realise I don't know. Work more, talk less...
+<br>
+Trying new things. Currently that's Rust.
 
 
 ## 🌐 Socials
